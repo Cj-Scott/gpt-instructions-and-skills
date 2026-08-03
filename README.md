@@ -13,10 +13,15 @@ A catalog of reusable instructions and skills for GPT-based workflows.
 
 ## Skills
 
-See [the skills catalog](skills/README.md). Current skills include [App Compliance Readiness](skills/app-compliance-readiness/SKILL.md), [Avoiding Generic Frontend Design](skills/avoiding-generic-frontend-design/SKILL.md), [Performance Reviewer](skills/performance-reviewer/SKILL.md), and [Secure Efficient Developer](skills/secure-efficient-developer/SKILL.md).
+See [the skills catalog](skills/README.md). Current skills include [App Compliance Readiness](skills/app-compliance-readiness/SKILL.md), [Avoiding Generic Frontend Design](skills/avoiding-generic-frontend-design/SKILL.md), [Frontend Design](skills/frontend-design/SKILL.md), [Performance Reviewer](skills/performance-reviewer/SKILL.md), and [Secure Efficient Developer](skills/secure-efficient-developer/SKILL.md).
+
+## Environment inventory
+
+See [Optional Codex Plugins](config/codex-plugins.md) for the reproducible list of installed, non-default plugins. The inventory records sources and versions without committing generated caches or credentials.
 
 ## Adding content
 
 - Store standalone reusable prompts in `instructions/`.
 - Store each skill in its own directory under `skills/`.
+- Record optional Codex plugins in `config/codex-plugins.md`.
 - Add every new item to this README so people and GPT agents can discover it without scanning the repository.
