@@ -7,6 +7,7 @@ A catalog of reusable instructions and skills for GPT-based workflows.
 | Instruction | Purpose |
 | --- | --- |
 | [Pure CSS Rotating Glow Border](instructions/pure-css-rotating-glow-border.md) | Generate an animated, premium-looking card border using only HTML and CSS. |
+| [Presentation Building](instructions/presentation-building/README.md) | Plan, structure, write, design, and refine professional presentations with six focused prompts. |
 | [Software Engineering with GPT/Codex](instructions/software-engineering/README.md) | Design, audit, debug, optimize, secure, and deploy software with ten focused engineering prompts. |
 
 ## Skills
