@@ -1,0 +1,4 @@
+interface:
+  display_name: "App Compliance Readiness"
+  short_description: "Review app privacy and platform compliance"
+  default_prompt: "Use $app-compliance-readiness to assess my app compliance gaps and produce an evidence-based readiness checklist."

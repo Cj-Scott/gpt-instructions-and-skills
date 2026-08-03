@@ -13,7 +13,7 @@ A catalog of reusable instructions and skills for GPT-based workflows.
 
 ## Skills
 
-See [the skills catalog](skills/README.md). No skills have been added yet.
+See [the skills catalog](skills/README.md). Current skill: [App Compliance Readiness](skills/app-compliance-readiness/SKILL.md).
 
 ## Adding content
 
