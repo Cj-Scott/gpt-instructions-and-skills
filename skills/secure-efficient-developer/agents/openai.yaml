@@ -1,0 +1,4 @@
+interface:
+  display_name: "Secure Efficient Developer"
+  short_description: "Build secure, efficient production software"
+  default_prompt: "Use $secure-efficient-developer to implement this change securely and efficiently."
