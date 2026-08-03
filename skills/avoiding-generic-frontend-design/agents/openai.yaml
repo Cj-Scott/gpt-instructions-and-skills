@@ -1,0 +1,4 @@
+interface:
+  display_name: "Avoiding Generic Frontend Design"
+  short_description: "Review interfaces for generic AI design patterns"
+  default_prompt: "Use $avoiding-generic-frontend-design to define a distinctive visual direction and review this interface for generic AI design patterns."

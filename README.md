@@ -13,7 +13,7 @@ A catalog of reusable instructions and skills for GPT-based workflows.
 
 ## Skills
 
-See [the skills catalog](skills/README.md). Current skill: [App Compliance Readiness](skills/app-compliance-readiness/SKILL.md).
+See [the skills catalog](skills/README.md). Current skills include [App Compliance Readiness](skills/app-compliance-readiness/SKILL.md) and [Avoiding Generic Frontend Design](skills/avoiding-generic-frontend-design/SKILL.md).
 
 ## Adding content
 
