@@ -4,6 +4,7 @@
 | --- | --- |
 | [App Compliance Readiness](app-compliance-readiness/SKILL.md) | Assess app privacy, AI disclosure, app-store data safety, UGC, and DMCA readiness using current official evidence. |
 | [Avoiding Generic Frontend Design](avoiding-generic-frontend-design/SKILL.md) | Define a product-specific visual direction and review interfaces for generic, template-driven AI design patterns. |
+| [Frontend Design](frontend-design/SKILL.md) | Create distinctive, production-grade frontend interfaces with strong aesthetics, purposeful motion, accessibility, and reusable implementation patterns. |
 | [Performance Reviewer](performance-reviewer/SKILL.md) | Measure software bottlenecks and recommend evidence-based performance improvements. |
 | [Secure Efficient Developer](secure-efficient-developer/SKILL.md) | Implement and review production software with secure defaults, bounded resource use, and focused validation. |
 
